@@ -1,0 +1,17 @@
+world:
+  blockedbiomes:  # Biomes that will be removed from the world when chunks are generated
+  - 'OCEAN'
+  - 'DEEP_OCEAN'
+  - 'RIVER'
+  - 'BEACH'
+  - 'SWAMPLAND'
+  - 'PLAINS'
+  - 'MUSHROOM_ISLAND'
+  - 'EXTREME_HILLS'
+  - 'DESERT'
+  - 'DESERT_HILLS'
+  - 'EXTREME_HILLS_PLUS'
+  - 'JUNGLE_HILLS'
+  - 'JUNGLE'
+  replacebiomes: # Biomes that will replace the removed biomes upon chunk generation
+  - "FOREST"

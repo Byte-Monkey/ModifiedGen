@@ -1,0 +1,6 @@
+main: xyz.bytemonkey.modifiedgen.ModifiedGen
+version: 1.0.0-SNAPSHOT
+name: ModifiedGen
+author: [ByteMonkey]
+website: http://bytemonkey.xyz
+load: STARTUP
